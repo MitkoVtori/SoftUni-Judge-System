@@ -13,7 +13,7 @@ Unfortunately, because of lots of private information about the code creators an
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 
-<a href="https://github.com/SnepalDelaupe"><img src="fdj"></a>
+<a href="https://github.com/SnepalDelaupe"><img src="https://user-images.githubusercontent.com/118673878/203285446-98548a5d-f411-4ca2-bd0a-d49260dc78cc.png"></a>
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 
@@ -27,7 +27,7 @@ Unfortunately, because of lots of private information about the code creators an
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 
-<a href="https://github.com/SnepalDelaupe"><img src="fdj"></a>
+<a href="https://github.com/SnepalDelaupe"><img src="https://user-images.githubusercontent.com/118673878/203285446-98548a5d-f411-4ca2-bd0a-d49260dc78cc.png"></a>
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 <br>
@@ -43,7 +43,7 @@ Unfortunately, because of lots of private information about the code creators an
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 
-<a href="https://github.com/SnepalDelaupe"><img src="fdj"></a>
+<a href="https://github.com/SnepalDelaupe"><img src="https://user-images.githubusercontent.com/118673878/203285446-98548a5d-f411-4ca2-bd0a-d49260dc78cc.png"></a>
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 
@@ -53,7 +53,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 ### Other:
-<a href="https://github.com/SnepalDelaupe"><img src="fdj"></a>
+<a href="https://github.com/SnepalDelaupe"><img src="https://user-images.githubusercontent.com/118673878/203285446-98548a5d-f411-4ca2-bd0a-d49260dc78cc.png"></a>
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 <br>
@@ -72,7 +72,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 # Main Coder, Helper & genius
-<a href="https://github.com/SnepalDelaupe"><img src="fdj"></a>
+<a href="https://github.com/SnepalDelaupe"><img src="https://user-images.githubusercontent.com/118673878/203285446-98548a5d-f411-4ca2-bd0a-d49260dc78cc.png"></a>
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 <br>
