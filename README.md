@@ -3,13 +3,13 @@
 Unfortunately, because of lots of private information about the code creators and destinations, we can't show the full project. That's just a small part made by me that doesn't include anything private.
 
 ### Public Source:
-<a href="https://github.com/MitkoVtori"><img src="fdj"></a>
+<a href="https://github.com/MitkoVtori"><img src="https://user-images.githubusercontent.com/112943652/203285852-fd47a4c6-c768-4498-810d-4f34bbb6ae22.jpg"></a>
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 <br>
 
 ### Private source:
-<a href="https://github.com/MitkoVtori"><img src="fdj"></a>
+<a href="https://github.com/MitkoVtori"><img src="https://user-images.githubusercontent.com/112943652/203285852-fd47a4c6-c768-4498-810d-4f34bbb6ae22.jpg"></a>
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 
@@ -23,7 +23,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 ### Python:
-<a href="https://github.com/MitkoVtori"><img src="fdj"></a>
+<a href="https://github.com/MitkoVtori"><img src="https://user-images.githubusercontent.com/112943652/203285852-fd47a4c6-c768-4498-810d-4f34bbb6ae22.jpg"></a>
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 
@@ -39,7 +39,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 ### HTML & CSS:
-<a href="https://github.com/MitkoVtori"><img src="fdj"></a>
+<a href="https://github.com/MitkoVtori"><img src="https://user-images.githubusercontent.com/112943652/203285852-fd47a4c6-c768-4498-810d-4f34bbb6ae22.jpg"></a>
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 
@@ -60,7 +60,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 # Author
-<a href="https://github.com/MitkoVtori"><img src="fdj"></a>
+<a href="https://github.com/MitkoVtori"><img src="https://user-images.githubusercontent.com/112943652/203285852-fd47a4c6-c768-4498-810d-4f34bbb6ae22.jpg"></a>
 
 ### <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
 <br>
