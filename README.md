@@ -17,7 +17,7 @@ Unfortunately, because of lots of private information about the code creators an
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 
-<a href="https://github.com/HackerstoyanovBG"><img src="fdj"></a>
+<a href="https://github.com/HackerstoyanovBG"><img src="https://user-images.githubusercontent.com/114164593/203284109-a0bc6e7e-3432-40ab-9955-4598938bec4c.png"></a>
 
 ### <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a>
 <br>
@@ -33,7 +33,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 ### JavaScript:
-<a href="https://github.com/HackerstoyanovBG"><img src="fdj"></a>
+<a href="https://github.com/HackerstoyanovBG"><img src="https://user-images.githubusercontent.com/114164593/203284109-a0bc6e7e-3432-40ab-9955-4598938bec4c.png"></a>
 
 ### <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a>
 <br>
@@ -47,7 +47,7 @@ Unfortunately, because of lots of private information about the code creators an
 
 ### <a href="https://github.com/SnepalDelaupe">Senephil D'laupe</a>
 
-<a href="https://github.com/HackerstoyanovBG"><img src="fdj"></a>
+<a href="https://github.com/HackerstoyanovBG"><img src="https://user-images.githubusercontent.com/114164593/203284109-a0bc6e7e-3432-40ab-9955-4598938bec4c.png"></a>
 
 ### <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a>
 <br>
@@ -66,7 +66,7 @@ Unfortunately, because of lots of private information about the code creators an
 <br>
 
 # Co-Author
-<a href="https://github.com/HackerstoyanovBG"><img src="fdj"></a>
+<a href="https://github.com/HackerstoyanovBG"><img src="https://user-images.githubusercontent.com/114164593/203284109-a0bc6e7e-3432-40ab-9955-4598938bec4c.png"></a>
 
 ### <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a>
 <br>
