@@ -1,6 +1,6 @@
 # SoftUni Judge System
 ### This is something like a bad Python/Javascript version of the SoftUni's Judge system
-Unfortunately, because of lots of private information about the code creators and destinations, we can't show the full project. That's just a small part made by me that doesn't include anything private.
+Unfortunately, because of lots of private information about the code creators and destinations, we can't show the full project. That's just a small part made by MitkoVtori that doesn't include anything private.
 
 ### Public Source:
 <a href="https://github.com/MitkoVtori"><img src="https://user-images.githubusercontent.com/112943652/203285852-fd47a4c6-c768-4498-810d-4f34bbb6ae22.jpg"></a>
